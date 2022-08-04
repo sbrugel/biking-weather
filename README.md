@@ -8,6 +8,10 @@ The user has the ability to enter both **location names** and **area codes** to 
 
 Data is retrieved from [WeatherAPI](https://www.weatherapi.com/) using the forecast endpoint.
 
+![chrome_nWLgOFaZkx](https://user-images.githubusercontent.com/58154576/182970908-fcec81c5-1389-4f40-924c-bc2c512702d0.png)
+![chrome_UIxYpOBpIL](https://user-images.githubusercontent.com/58154576/182970910-86ac68bc-d1e7-4681-941d-30b18df3dc7d.png)
+
+
 ## Setup
 
 You will require an installation of node.js to run this application.
